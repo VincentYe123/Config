@@ -25,7 +25,7 @@ DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claudeusercontent.com
 
 # > Cursor
-DOMAIN-SUFFIX,cursor.sh
+# DOMAIN-SUFFIX,cursor.sh
 
 # > Dify AI
 DOMAIN-SUFFIX,dify.ai
